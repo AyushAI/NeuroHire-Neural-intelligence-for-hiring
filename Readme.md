@@ -1,4 +1,4 @@
-# candidate_fit_analyzer
+# NeuroHire :Neural intelligence for hiring
 
 An automated system for evaluating a candidate's suitability for a given job using both **GitHub** and **LinkedIn** profile data, analyzed by **Google Gemini LLM**.
 
