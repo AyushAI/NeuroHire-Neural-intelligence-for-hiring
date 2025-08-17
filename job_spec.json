@@ -1,0 +1,7 @@
+{
+  "title": "Full Stack Developer",
+  "required_skills": ["React", "Node.js", "PostgreSQL", "Docker"],
+  "desired_skills": ["TypeScript", "GraphQL", "CI/CD", "Kubernetes"],
+  "min_github_stars": 50,
+  "description": "We are seeking a full stack engineer to build scalable web apps and APIs with modern tools."
+}
