@@ -1,16 +1,3 @@
-# import json
-# from github_loader import get_github_profile
-
-# if __name__ == "__main__":
-#     username = input("Enter GitHub username: ").strip()
-#     profile = get_github_profile(username)
-    
-#     # Save structured output
-#     with open(f"{username}_profile.json", "w") as f:
-#         json.dump(profile.dict(), f, indent=2)
-
-#     print(f"\n✅ Profile JSON saved to: {username}_profile.json")
-
 import json
 import os
 from dotenv import load_dotenv
